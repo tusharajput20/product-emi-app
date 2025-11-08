@@ -62,7 +62,7 @@ PUT	/api/products/:id	Update existing product
 DELETE	/api/products/:id	Remove product
 📦 Example API Response
 
-GET /api/products
+GET /api/products    for example only
 
 [
   {
@@ -76,7 +76,7 @@ GET /api/products
 ]
 
 
-GET /api/products/:id
+GET /api/products/:id   for example only 
 
 {
   "_id": "64f91c8b1b0b3e11d9e91c2a",
